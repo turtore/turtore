@@ -12,9 +12,9 @@
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/03576acce5f7141c6ae0db32a0282c8f/tumblr_pghnkkxRVP1u696kho2_r1_500.gifv?width=676&height=676">
+  <!-- <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+  <img align="right" alt="Bruno-pic" height="150" style="border-radius:100px;" src="https://64.media.tumblr.com/03576acce5f7141c6ae0db32a0282c8f/tumblr_pghnkkxRVP1u696kho2_r1_500.gifv?width=676&height=676">
 </div>
   
   #######
