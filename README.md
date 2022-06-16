@@ -1,7 +1,6 @@
 ### Hi, my name is Bruno Pinto, alias Turtore !
 ## 
-<div>
-  
+<div>  
   <div align="left">
     <a href="https://github.com/turtore">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
