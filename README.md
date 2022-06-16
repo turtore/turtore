@@ -2,8 +2,8 @@
 ## 
 <div>
   <a href="https://github.com/turtore">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dark"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dark"/>
 </div>
 
 <br>
