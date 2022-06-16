@@ -27,8 +27,7 @@ I love programming in general, especially backend technologies with spring and q
 
 ### Contact Me
 ##
-<div> 
+<div style="display: inline_block"> 
   <a href = "mailto:brunosap@gmail.com"><img height="50" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
   <a href="https://www.linkedin.com/in/turtore/" target="_blank"><img height="50" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
