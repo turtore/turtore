@@ -2,7 +2,7 @@
 ## 
 Hi, my name is Bruno Pinto, alias Turtore ! 
 
-I love programming in general, especially backend technologies like spring and quarkus. My hobbies are rpg's, video games and music.
+I love programming in general, especially backend technologies with spring and quarkus. My hobbies are rpg's, video games and music.
 
 ###
 ## 
