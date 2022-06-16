@@ -5,8 +5,8 @@ Hi, my name is Bruno Pinto, alias Turtore !
 I love programming in general, especially backend technologies with spring and quarkus. My hobbies are rpg's, video games and music.
 <div style="display: flex">
   <a href="https://github.com/turtore">
-    <img align="center" height="210em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="center" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dark"/>
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" border_radius="5px"/>
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dracula&layout=compact" border_radius="5px"/>
 </div>
 
 ##
