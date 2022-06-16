@@ -6,7 +6,7 @@ I love programming in general, especially backend technologies like spring and q
 
 ###
 ## 
-<div>
+<div style="display: flex">
   <a href="https://github.com/turtore">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dark"/>
