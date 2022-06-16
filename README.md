@@ -1,15 +1,16 @@
 ### Hi, my name is Bruno Pinto, alias Turtore !
 ## 
-<div align="left">
-  <a href="https://github.com/turtore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<div>
+  
+  <div align="left">
+    <a href="https://github.com/turtore">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
 
-<div align="right">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dark"/>
-</div>
-    
-
+  <div align="right">
+    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dark"/>
+  </div>
+</div>   
 
   <div style="display: inline_block"><br>
    <img align="center" alt="Bruno-Ja" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
