@@ -17,7 +17,7 @@
   <img align="center" alt="Bruno-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:100px;" src="https://64.media.tumblr.com/03576acce5f7141c6ae0db32a0282c8f/tumblr_pghnkkxRVP1u696kho2_r1_500.gifv?width=676&height=676">
+  <!-- <img align="right" alt="Bruno-pic" height="150" style="border-radius:100px;" src="https://64.media.tumblr.com/03576acce5f7141c6ae0db32a0282c8f/tumblr_pghnkkxRVP1u696kho2_r1_500.gifv?width=676&height=676"> -->
 </div>
 
 <br>
