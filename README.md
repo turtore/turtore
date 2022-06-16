@@ -6,7 +6,7 @@ I love programming in general, especially backend technologies with spring and q
 <div style="display: flex">
   <a href="https://github.com/turtore">
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=turtore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" border_radius="5px"/>
-    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dracula" border_radius="5px"/>
+    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtore&theme=dracula&include_all_commits=true&count_private=true" border_radius="5px"/>
 </div>
 
 ##
