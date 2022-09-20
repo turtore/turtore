@@ -2,7 +2,7 @@
 ### 📜  About Me
 Hi, my name is Bruno Pinto.
 I love programming in general, especially backend technologies with node, spring, and quarkus.
-I also like other things like reading 📖, RPGs 🎲, video games 🎮, music 🎵, and motorcycles 🏍️.
+I also like reading 📖, RPGs 🎲, video games 🎮, music 🎵, and motorcycles 🏍️.
 <div style="display: flex">
 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20" height="20" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats
